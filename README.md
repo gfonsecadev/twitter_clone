@@ -1,5 +1,5 @@
 # Twitter clone
-In this project I used the PHP language to build the Twitter platform.
+In this project I used the PHP language to build the Twitter platform with an MVC architecture approach.
 
 ## Screenshots:
 ![image](https://github.com/gfonsecadev/twitter_clone/assets/90278833/f608d45a-64df-4ec1-b3cd-bd7d1658d5fb)
